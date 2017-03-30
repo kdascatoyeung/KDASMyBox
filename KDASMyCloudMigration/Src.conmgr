@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Src"
+  DTS:DTSID="{278D08FA-4D43-451A-A666-35FC00A89020}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=KDTHK-INTDB\KDTHK_DB;User ID=sa;Initial Catalog=KDTHK_DB_DM_DEV;Provider=SQLNCLI11.1;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJkJ+uo1KBEaaztG1V7+GNAAAAAACAAAAAAADZgAAwAAAABAAAACnv2wQioYUFopQ2n8CR9I5AAAAAASAAACgAAAAEAAAAGLlkVYl806TNkmMC1Iu4SZ4AAAA3JNIIcxKZrONYxHXyjXIu3ts/FAsz+rq9QM6Bio7VtZb5xUtQrOqRsGLBPMLu7hz9eC+c+L8JqMCDGJJPlwF+bkhcK1cacJNYmFcewRxH72mYmI+o12DehoU5z/XuaBJnazXd9O3FvMVQ6JGqPZc7qx9IS22PshwFAAAAMW5ze7Dt18N/z4jQX9IveP0L82n</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDASMyBox", "KDASMyBox\KDASMyBox.csproj", "{A438BF70-0AB5-49F4-BAE5-56113B7738C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDASMyBox.Tests", "KDASMyBox.Tests\KDASMyBox.Tests.csproj", "{D960CD2C-9FA0-437E-81C7-F9174235AD5D}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "KDASMyCloudMigration", "KDASMyCloudMigration\KDASMyCloudMigration.dtproj", "{050E96C0-CEBF-4F4B-B827-292E31AFAACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Development|Any CPU = Development|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A438BF70-0AB5-49F4-BAE5-56113B7738C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A438BF70-0AB5-49F4-BAE5-56113B7738C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A438BF70-0AB5-49F4-BAE5-56113B7738C6}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{A438BF70-0AB5-49F4-BAE5-56113B7738C6}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{A438BF70-0AB5-49F4-BAE5-56113B7738C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A438BF70-0AB5-49F4-BAE5-56113B7738C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D960CD2C-9FA0-437E-81C7-F9174235AD5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D960CD2C-9FA0-437E-81C7-F9174235AD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D960CD2C-9FA0-437E-81C7-F9174235AD5D}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{D960CD2C-9FA0-437E-81C7-F9174235AD5D}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{D960CD2C-9FA0-437E-81C7-F9174235AD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D960CD2C-9FA0-437E-81C7-F9174235AD5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{050E96C0-CEBF-4F4B-B827-292E31AFAACD}.Debug|Any CPU.ActiveCfg = Development
+		{050E96C0-CEBF-4F4B-B827-292E31AFAACD}.Debug|Any CPU.Build.0 = Development
+		{050E96C0-CEBF-4F4B-B827-292E31AFAACD}.Development|Any CPU.ActiveCfg = Development
+		{050E96C0-CEBF-4F4B-B827-292E31AFAACD}.Development|Any CPU.Build.0 = Development
+		{050E96C0-CEBF-4F4B-B827-292E31AFAACD}.Release|Any CPU.ActiveCfg = Development
+		{050E96C0-CEBF-4F4B-B827-292E31AFAACD}.Release|Any CPU.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
